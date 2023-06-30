@@ -1,0 +1,6 @@
+TYPE: 'FasterRCNN'
+PRETRAINED: False
+CKPT_PATH: ''
+
+train_annotation_path: '2007_train.txt'
+val_annotation_path: '2007_val.txt'
